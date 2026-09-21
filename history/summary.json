@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pravasisit.com.ico",
     "slug": "pravasis",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.53%",
-    "time": 1230,
-    "timeDay": 1208,
-    "timeWeek": 1249,
+    "uptimeYear": "99.54%",
+    "time": 1231,
+    "timeDay": 1242,
+    "timeWeek": 1246,
     "timeMonth": 1234,
-    "timeYear": 1230,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2026-09-16": 229
     }
